@@ -7,6 +7,14 @@ TagManager:
   - Obstacle
   - Obstacle_Holder
   - Collided_Obstacle
+  - stationary
+  - paddle
+  - FxTemporaire
+  - projectile
+  - oar
+  - score
+  - scoreBoat
+  - GameManager
   layers:
   - Default
   - TransparentFX
@@ -16,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - shards
   - 
   - 
   - 
